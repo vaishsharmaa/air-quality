@@ -51,3 +51,8 @@ max       2049.000000
 * Cleaned data saved as data/city_day_clean.csv
 * Dropped rows with missing AQI
 * Kept PM2.5/PM10 NaN values, did not fill
+
+## Nov 2
+* Made line chart of AQI over time for Jaipur (chart1.py), saved in charts/
+* AQI is highest around 500 and lowest around 30
+
