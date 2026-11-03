@@ -56,3 +56,7 @@ max       2049.000000
 * Made line chart of AQI over time for Jaipur (chart1.py), saved in charts/
 * AQI is highest around 500 and lowest around 30
 
+## Nov 3
+* Made multi-city comparison chart (chart2.py) and average AQI bar chart (chart3.py)
+* Highest average AQI: 452.1 . Lowest: 34.8
+* Some cities have fewer records or a shorter date range, so averages are not perfectly comparable
