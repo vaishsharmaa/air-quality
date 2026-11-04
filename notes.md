@@ -60,3 +60,8 @@ max       2049.000000
 * Made multi-city comparison chart (chart2.py) and average AQI bar chart (chart3.py)
 * Highest average AQI: 452.1 . Lowest: 34.8
 * Some cities have fewer records or a shorter date range, so averages are not perfectly comparable
+
+## Nov 4
+* PM2.5 and PM10 charts for Delhi (chart4.py). PM10 is higher than PM2.5 as expected
+* High days rule: AQI > mean + 2 std (threshold 499). Found 48 days for Delhi
+* High days fall mostly in November
