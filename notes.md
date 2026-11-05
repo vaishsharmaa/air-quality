@@ -65,3 +65,8 @@ max       2049.000000
 * PM2.5 and PM10 charts for Delhi (chart4.py). PM10 is higher than PM2.5 as expected
 * High days rule: AQI > mean + 2 std (threshold 499). Found 48 days for Delhi
 * High days fall mostly in November
+
+## Nov 5
+* Monthly pattern (chart6.py): AQI highest in November, lowest in August for Delhi
+* Weekday pattern (chart7.py): differences between weekdays are small (266[Friday] vs 253[Monday])
+* Seasonal pattern is stronger than weekly pattern
