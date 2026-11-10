@@ -70,3 +70,8 @@ max       2049.000000
 * Monthly pattern (chart6.py): AQI highest in November, lowest in August for Delhi
 * Weekday pattern (chart7.py): differences between weekdays are small (266[Friday] vs 253[Monday])
 * Seasonal pattern is stronger than weekly pattern
+
+## Nov 10
+- Built first Streamlit app (app.py) with city selector, summary metrics and AQI chart
+- Run with: python -m streamlit run app.py
+- Used st.cache_data so the CSV loads once
